@@ -11,4 +11,4 @@ https://youtu.be/z73AwFk2de0
 
 ## 정보
 이지현 leeejihyun@naver.com  
-고민지  
+고민지 jane9810ko@gmail.com  
