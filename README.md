@@ -12,5 +12,5 @@ _자세한 내용은 https://leeejihyun.tistory.com/2 를 참고하세요._
 https://youtu.be/z73AwFk2de0  
 
 ## 정보
-이지현 leeejihyun@naver.com  
 고민지 jane9810ko@gmail.com  
+이지현 leeejihyun@naver.com   
