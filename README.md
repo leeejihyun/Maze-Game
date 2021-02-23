@@ -8,6 +8,9 @@ _자세한 내용은 https://leeejihyun.tistory.com/2 를 참고하세요._
 
 <center><img src="main.png" width="600" height="334"></center>
 
+## 기간
+2017년 12월 5일 ~ 2017년 12월 12일 (7일)
+
 ## 사용 예제  
 https://youtu.be/z73AwFk2de0  
 
