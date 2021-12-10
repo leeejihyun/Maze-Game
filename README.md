@@ -12,7 +12,7 @@ _자세한 내용은 https://leeejihyun.tistory.com/2 를 참고하세요._
 2017년 12월 5일 ~ 2017년 12월 12일 (7일)
 
 ## 사용 예제  
-https://youtu.be/z73AwFk2de0  
+https://tv.kakao.com/v/414565844
 
 ## 정보
 고민지, 이지현  
