@@ -14,6 +14,6 @@ _자세한 내용은 https://leeejihyun.tistory.com/2 를 참고하세요._
 ## 사용 예제  
 https://tv.kakao.com/v/414565844
 
-## 정보
+## 정보(가나다순)
 고민지, 이지현  
 _관련 문의는 leeejihyun@naver.com으로 부탁드립니다._
